@@ -1,1 +1,67 @@
 
+<html>
+  <body>
+    
+    <h1>WHO AM I</h1>
+    
+    <p><b>Michael Polo</b></p>
+    
+    <h3>WHERE DO I LIVE<h/3>
+      <p>Harlem</p>
+      
+      <h3>SHORT BIO<h/3>
+        <p>I like film, music and playing video games</p>
+        
+        <h3>FAVE FOODS</3>
+        <ul>
+          <li>Pizza</li>
+          <li>Steak</li>
+          <li>Pasta</li>
+          <li>Tacos</li>
+        </ul>
+        
+        <h3>FAVE ANIMALS</h3>
+        <ul>
+          <li>Cat</li>
+          <li>Koala Bear</li>
+          <li>Monkey</li>
+        
+  
+        
+          <!DOCTYPE html>
+          <html>
+          <body>
+          
+          <h2>External Paths</h2>
+          
+          <p>This is one of my favorite bands:</p>
+          <p><a href="https://en.wikipedia.org/wiki/Swans_(band)">swans</a></p>
+          
+          </body>
+          </html>
+          <!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
+
+<h1>helloworld</h1>
+<p>hello.</p>
+
+</body>
+</html>
+
+git init 
+
+# Favorite Band
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/mpolo76/pen/rNmxwyd](https://codepen.io/mpolo76/pen/rNmxwyd).
+
+
+git init 
+git add <folder5>
